@@ -14,4 +14,5 @@
 Command topics: 激活码/ac/cmnd/(protocol|model|power|mode|temp|fanspeed|swingv|swingh|quiet|turbo|light|beep|econo|sleep|filter|clean|use_celsius|resend)    
 State topics: 激活码/ac/stat/(protocol|model|power|mode|temp|fanspeed|swingv|swingh|quiet|turbo|light|beep|econo|sleep|filter|clean|use_celsius|resend)    
 
-Homekit有个环境温度，此温度必须用mqtt发送数字温度到topic，topic为：激活码/temp
+Homekit有个环境温度，此温度必须用mqtt发送数字温度到topic，topic为：激活码/temp    
+Pin码 888-88-888
