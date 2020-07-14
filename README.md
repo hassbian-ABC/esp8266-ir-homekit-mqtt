@@ -1,4 +1,4 @@
-# IRMQTT
+# IRMQTT-Homekit
 此固件适用于H大的8266 irmqtt模块    
 淘宝有卖    
 支持Homekit直连，mqtt，web控制    
