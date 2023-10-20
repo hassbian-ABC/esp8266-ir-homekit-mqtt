@@ -2,7 +2,7 @@
 
 ## 原生HomeKit红外空调遥控
 
-![HomeKit](https://raw.github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/home_app_pages.png) 
+![HomeKit]([https://raw.github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/home_app_pages.png](https://github.com/hassbian-ABC/esp8266-ir-homekit-mqtt/blob/master/image/add_accessory.png)) 
 
 主芯片为ESP8266，原生HomeKit红外空调遥控，支持数十种空调遥控协议。
 
