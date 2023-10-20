@@ -13,7 +13,7 @@
 - 支持控制空调的开关、模式、温度、风速、扫风、灯光等等
 - 支持数十种空调遥控协议，红外控制基于[IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)，更新最新版本
 - 本固件支持多种esp8266红外控制器，例如：中国移动x12 全橙空调伴侣 涂鸦万能遥控器 自制esp8266红外控制器 等等，其中 中国移动x12 和 全橙空调伴侣 支持电量统计，并支持功率反馈空调真实开关情况，确保万无一失
-- 支持mqtt自动发现及手动配置，可以在web页面下载配置文件
+- 支持mqtt，ha的自动发现及手动配置，可以在web页面下载配置文件
 
 
 ## WiFi配网
@@ -29,7 +29,7 @@
 
 ![web.png](https://github.com/hassbian-ABC/esp8266-ir-homekit-mqtt/blob/master/image/web.png) 
 
-- 设置空调协议Protocol、子型号Model，**需设置与实体遥控器匹配的空调协议和子型号** 可使用自动是被模式进行识别
+- 设置空调协议Protocol、子型号Model，**需设置与实体遥控器匹配的空调协议和子型号** 可使用自动识别模式进行识别
 - 控制空调的开关Power、模式Mode、温度Temperature、风速Fan Speed、扫风Swing（垂直V/水平H）、灯光Light
 
 
