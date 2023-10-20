@@ -2,7 +2,7 @@
 
 ## 原生HomeKit红外空调遥控
 
-![HomeKit](https://github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/home_app_pages.png) 
+![HomeKit](https://raw.github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/home_app_pages.png) 
 
 主芯片为ESP8266，原生HomeKit红外空调遥控，支持数十种空调遥控协议。
 
@@ -29,7 +29,7 @@
 
 注：`<esp_ip>`为你的ESP8266联网后的IP地址，下同
 
-![web.png](https://github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/web.png) 
+![web.png](https://raw.github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/web.png) 
 
 - 设置空调协议Protocol、子型号Model，**需设置与实体遥控器匹配的空调协议和子型号**
 - 控制空调的开关Power、模式Mode、温度Temperature、风速Fan Speed、扫风Swing（垂直V/水平H）、灯光Light
@@ -39,4 +39,4 @@
 
 - 配对设置代码：`111-11-111`
 
-![add_accessory.png](https://github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/add_accessory.png) 
+![add_accessory.png](https://raw.github.com/hassbian-ABC/esp-ir-homekit-mqtt/master/image/add_accessory.png) 
