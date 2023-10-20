@@ -7,9 +7,6 @@
 主芯片为ESP8266，原生HomeKit红外空调遥控，支持数十种空调遥控协议。
 
 
-目前仍在开发中，部分功能以后可能会有改动。
-
-
 ## 主要功能
 
 - 原生HomeKit协议，无需服务器桥接，基于Mixiaoxiao的[Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266), 更新适配家庭新框架，适配iOS17
